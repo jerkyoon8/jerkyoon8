@@ -2,12 +2,9 @@
 
 ### 두두타 도감
 Heartopia(두근두근타운) 유저를 위한 종합 도감 및 인터랙티브 지도 서비스
-
 - 1인 개발 및 운영
-- 통합 검색, 도감 탐색, 인터랙티브 지도, 수집도감 저장, 관리자 기능 구현
-- Blue-Green 배포, 운영 자동화, 비정상 트래픽 대응, 성능 개선 경험
-- 지난 7일간 GA4 기준 활성 사용자 3,800명, 페이지 조회수 9만 회 기록
-
+- GitHub: [heartopia-life](https://github.com/jerkyoon8/heartopia-life)
+- Service: [heartopia-life.me](https://heartopia-life.me)
 ---
 
 ## Tech Stack
